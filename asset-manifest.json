@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eee1e620.chunk.css",
+    "main.js": "/static/js/main.72385a2b.chunk.js",
+    "main.js.map": "/static/js/main.72385a2b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6e37e88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6e37e88.js.map",
+    "static/js/2.f07c3db5.chunk.js": "/static/js/2.f07c3db5.chunk.js",
+    "static/js/2.f07c3db5.chunk.js.map": "/static/js/2.f07c3db5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.345109ce9049e19126d3eb3c79d164c2.js": "/precache-manifest.345109ce9049e19126d3eb3c79d164c2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eee1e620.chunk.css.map": "/static/css/main.eee1e620.chunk.css.map",
+    "static/js/2.f07c3db5.chunk.js.LICENSE.txt": "/static/js/2.f07c3db5.chunk.js.LICENSE.txt",
+    "static/media/coder-girl.png": "/static/media/coder-girl.ac55e35a.png",
+    "static/media/controll.png": "/static/media/controll.b6cd10ee.png",
+    "static/media/mercury.png": "/static/media/mercury.39147405.png",
+    "static/media/resume.pdf": "/static/media/resume.98f7796a.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e37e88.js",
+    "static/js/2.f07c3db5.chunk.js",
+    "static/css/main.eee1e620.chunk.css",
+    "static/js/main.72385a2b.chunk.js"
+  ]
+}
