@@ -1,0 +1,32 @@
+@import '../../styles/responsive';
+@import '../../styles/color';
+
+#navbar {
+    .navbar {
+        padding-left: $col_width; //_responsive.scss
+        padding-right: $col_width; //_responsive.scss
+        height: 4rem;
+        .nav-link {
+            margin-right: 2rem;
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+        .navbar-text {
+            display: inline-block;
+            margin-right: 2rem;
+            a {
+                color: rgba(255, 255, 255, 0.5);
+                &:hover {
+                    color: rgba(255, 255, 255, 0.75);
+                }
+            }
+        }
+    }
+    #logo {
+        height: 1.7rem;
+    }
+    #responsive-navbar-nav {
+        background-color: $black;
+    }
+}

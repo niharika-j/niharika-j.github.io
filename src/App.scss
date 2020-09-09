@@ -1,0 +1,18 @@
+@import './styles/custom';
+@import './styles/color';
+
+h3 {
+    color: $purple;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+a {
+    color: inherit;
+    &:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+}

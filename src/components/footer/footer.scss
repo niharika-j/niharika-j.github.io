@@ -1,0 +1,17 @@
+@import "../../styles/responsive";
+@import "../../styles/color";
+
+#footer {
+    padding-left: $col_width;
+    padding-right: $col_width;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: $black;
+    color: white;
+}
+//xs (mobile)
+@media only screen and (max-width: $xs_max) {
+    #footer {
+        font-size: 0.8rem;
+    }
+}
