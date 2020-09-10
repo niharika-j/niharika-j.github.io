@@ -14,7 +14,7 @@ import Home from './pages/home/home';
 function App() {
   return (
     <div className="App">
-      <Router basename="https://niharika-j.github.io/">
+      <Router basename="/">
         <NavbarComponent/>
         <Switch>
           <Route exact path="/">
